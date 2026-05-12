@@ -31,12 +31,6 @@
   },
   "forwardPorts": [443, 8080],
   "hostRequirements": {
-   "cpus": 4,
-   "memory": "8gb",
-   "storage": "64gb"
-  },
-  "containerEnv": {
-   "MRH_ADMIN_USERNAME": "Aboli",
-   "MRH_ADMIN_PASSWORD": "Aboli2005!"
+   "cpus": 2
   }
 }
